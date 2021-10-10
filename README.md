@@ -8,7 +8,7 @@ It has three main features:
 * Delete all todos.
 * Select todo as done. 
 ****
-![](images/1.png)
+![](1.png)
 *****
 ![](images/2.png)
 ***
