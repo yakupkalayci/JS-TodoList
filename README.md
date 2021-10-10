@@ -8,7 +8,7 @@ It has three main features:
 * Delete all todos.
 * Select todo as done. 
 ****
-![](1.png)
+![](https://github.com/yakupkalayci/JS-TodoList/blob/main/images/1.PNG)
 *****
 ![](images/2.png)
 ***
