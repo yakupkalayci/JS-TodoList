@@ -10,6 +10,6 @@ It has three main features:
 ****
 ![](https://github.com/yakupkalayci/JS-TodoList/blob/main/images/1.PNG)
 *****
-![](images/2.png)
+![](https://github.com/yakupkalayci/JS-TodoList/blob/main/images/2.PNG)
 ***
-![](images/3.png)
+![](https://github.com/yakupkalayci/JS-TodoList/blob/main/images/3.PNG)
