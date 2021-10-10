@@ -72,6 +72,7 @@ function addItem() {
         
         newLi.append(closeButton);
         todos.append(newLi);
+        newLi.addEventListener("click", checkElement);
 
         addTodostoStorage(value);
     }
@@ -85,6 +86,11 @@ closes.forEach((close) => close.addEventListener("click", removeElement));
 function removeElement(e) {
     e.target.parentElement.remove();
     removeTodoFromStorage(e.target.parentElement.textContent);
+}
+
+// Elementleri Seçili Hale getirme
+function checkElement() {
+    this.classList.add("checked");
 }
 
 // Tüm todoları silme
